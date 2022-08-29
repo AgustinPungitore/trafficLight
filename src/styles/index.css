@@ -1,3 +1,25 @@
+.trafficTop {
+    background-color: black;
+    height: 90px;
+    width: 50px;
+}
+
+.caja {
+    background-color: black;
+    height: 200px;
+    width: 140px;
+    border-radius: 10px;
+}
+
+.button {
+    border-radius: 100%;
+    width: 75px;
+}
+
+
+.buttonshadow {
+    box-shadow: 0 0 60px #ffffff
+}
 
 /* 
 
